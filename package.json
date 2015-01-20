@@ -1,0 +1,32 @@
+{
+  "name": "pseudo-elements",
+  "description": "List of all CSS pseudo-elements.",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/pseudo-elements.git"
+  },
+  "keywords": [
+    "css",
+    "pseudo-elements",
+    "element",
+    "pseudo"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/pseudo-elements/issues"
+  },
+  "homepage": "https://github.com/johnotander/pseudo-elements",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
