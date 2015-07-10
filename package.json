@@ -2,7 +2,7 @@
   "name": "pseudo-elements",
   "description": "List of all CSS pseudo-elements.",
   "author": "John Otander",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
