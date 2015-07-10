@@ -1,7 +1,7 @@
 var assert = require('assert');
 var pseudoElements = require('..');
 
-var elements = ['after', 'before', 'first-letter', 'first-line', 'selection'];
+var elements = ['after', 'before', 'first-letter', 'first-line', 'selection', 'backdrop'];
 
 describe('pseudo-elements', function() {
 

@@ -6,6 +6,7 @@ module.exports = function pseudoElements() {
     'before',
     'first-letter',
     'first-line',
-    'selection'
+    'selection',
+    'backdrop'
   ];
 }
