@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 module.exports = function pseudoElements() {
   return [
@@ -7,6 +7,10 @@ module.exports = function pseudoElements() {
     'first-letter',
     'first-line',
     'selection',
-    'backdrop'
-  ];
+    'backdrop',
+    'placeholder',
+    'marker',
+    'spelling-error',
+    'grammar-error'
+  ]
 }
